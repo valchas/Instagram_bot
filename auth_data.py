@@ -1,3 +1,3 @@
-username = 'about_valcha'
-password = '787898Love'
+username = 'YOUR_USERNAME'
+password = 'YOUR_PASSWORD'
 

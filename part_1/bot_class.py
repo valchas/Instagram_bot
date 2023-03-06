@@ -19,6 +19,7 @@ class Instagram_bot():
 
         self.browser.close()
         self.browser.quit()
+        
 
     def login(self):
 

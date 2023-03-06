@@ -9,8 +9,6 @@ if __name__ == '__main__':
 
     my_bot.like_photo_by_hashtag('sketch')
 
-
-
     my_bot.browser_close()
 
 

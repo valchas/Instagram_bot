@@ -16,6 +16,7 @@ class Instagram_bot():
         self.browser = webdriver.Chrome("..\\chromedriver\\chromedriver.exe")
 
     def browser_close(self):
+        
 
         self.browser.close()
         self.browser.quit()
